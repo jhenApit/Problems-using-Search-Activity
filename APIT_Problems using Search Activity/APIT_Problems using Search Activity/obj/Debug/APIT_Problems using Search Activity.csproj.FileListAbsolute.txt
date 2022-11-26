@@ -1,0 +1,11 @@
+C:\Users\jhena\Downloads\APIT_Problems using Search Activity\APIT_Problems using Search Activity\bin\Debug\APIT_Problems using Search Activity.exe.config
+C:\Users\jhena\Downloads\APIT_Problems using Search Activity\APIT_Problems using Search Activity\bin\Debug\APIT_Problems using Search Activity.exe
+C:\Users\jhena\Downloads\APIT_Problems using Search Activity\APIT_Problems using Search Activity\bin\Debug\APIT_Problems using Search Activity.pdb
+C:\Users\jhena\Downloads\APIT_Problems using Search Activity\APIT_Problems using Search Activity\obj\Debug\APIT_Problems using Search Activity.csproj.AssemblyReference.cache
+C:\Users\jhena\Downloads\APIT_Problems using Search Activity\APIT_Problems using Search Activity\obj\Debug\APIT_Problems using Search Activity.csproj.SuggestedBindingRedirects.cache
+C:\Users\jhena\Downloads\APIT_Problems using Search Activity\APIT_Problems using Search Activity\obj\Debug\APIT_Problems_using_Search_Activity.MazeSolverApp.resources
+C:\Users\jhena\Downloads\APIT_Problems using Search Activity\APIT_Problems using Search Activity\obj\Debug\APIT_Problems_using_Search_Activity.Properties.Resources.resources
+C:\Users\jhena\Downloads\APIT_Problems using Search Activity\APIT_Problems using Search Activity\obj\Debug\APIT_Problems using Search Activity.csproj.GenerateResource.cache
+C:\Users\jhena\Downloads\APIT_Problems using Search Activity\APIT_Problems using Search Activity\obj\Debug\APIT_Problems using Search Activity.csproj.CoreCompileInputs.cache
+C:\Users\jhena\Downloads\APIT_Problems using Search Activity\APIT_Problems using Search Activity\obj\Debug\APIT_Problems using Search Activity.exe
+C:\Users\jhena\Downloads\APIT_Problems using Search Activity\APIT_Problems using Search Activity\obj\Debug\APIT_Problems using Search Activity.pdb
